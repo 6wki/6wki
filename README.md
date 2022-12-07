@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👨‍🚀, I'm Shawki</h1>
 <h3 align="center">just a hermit drowning in his laboratory</h3>
-<img align="right" width="290" src="http://pa1.narvii.com/7704/3fa3a6d8bb442a093720df1623c45ea75f911297r1-334-462_00.gif" alt="6wki" />
+<img align="right" width="285" src="http://pa1.narvii.com/7704/3fa3a6d8bb442a093720df1623c45ea75f911297r1-334-462_00.gif" alt="6wki" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6wki&label=Profile%20views&color=0e75b6&style=flat" alt="6wki" /> </p>
 

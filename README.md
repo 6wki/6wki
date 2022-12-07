@@ -1,7 +1,6 @@
 <h1 align="center">Bonjour 👨‍🚀, I'm Shawki</h1>
 <h3 align="center">just a hermit drowning in his laboratory</h3>
-<img align="right" alt="shawki" width="400" src="https://i.pinimg.com/originals/2e/8a/70/2e8a70f5cbb34be84c6b833fa24e7ebc.gif">
-<img align="right" src="http://pa1.narvii.com/7704/3fa3a6d8bb442a093720df1623c45ea75f911297r1-334-462_00.gif" alt="6wki" />
+<img align="right" width="290" src="http://pa1.narvii.com/7704/3fa3a6d8bb442a093720df1623c45ea75f911297r1-334-462_00.gif" alt="6wki" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6wki&label=Profile%20views&color=0e75b6&style=flat" alt="6wki" /> </p>
 
@@ -20,13 +19,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> <hr>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mhcc213Y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mhcc213Y" /></a></p><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=6wki&show_icons=true&locale=en&layout=compact" alt="6wki" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=6wki&show_icons=true&locale=en&layout=compact" alt="6wki" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=6wki&show_icons=true&locale=en" alt="6wki" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=6wki&show_icons=true&locale=en" alt="6wki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6wki&" alt="6wki" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=6wki&" alt="6wki" /></p>

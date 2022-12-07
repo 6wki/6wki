@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍🦯 I’m looking to collaborate on with myself [myself!](uknown.uknown)
+- 👨‍🦯 I’m looking to collaborate on with myself [myself!](https://github.com/6wki)
 
 - 💬 Ask me about **Html, Css**
 

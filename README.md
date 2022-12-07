@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👨‍🚀, I'm Shawki</h1>
 <h3 align="center">just a hermit drowning in his laboratory</h3>
-<img align="right" width="400" src="[https://i.pinimg.com/originals/55/50/ff/5550ff060e3a882e6fbb9c05abbc9e21.gif">
+![2e8a70f5cbb34be84c6b833fa24e7ebc](https://user-images.githubusercontent.com/109316527/206171929-ddb91b13-6373-47db-bb69-ed878add0ece.gif)
 
 - 🌱 I’m currently learning **Javascript**
 

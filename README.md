@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6wki&label=Profile%20views&color=0e75b6&style=flat" alt="6wki" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍🦯 I’m looking to collaborate on with [myself!](https://github.com/6wki)
 
-- 💬 Ask me about **Html, Css**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **mhcc213@gmail.com**
 
